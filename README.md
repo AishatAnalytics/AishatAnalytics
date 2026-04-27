@@ -18,7 +18,7 @@ AWS Certified Solutions Architect Professional building real cloud systems in pu
 | [IAM Permission Trimmer](https://github.com/AishatAnalytics/iam-permission-trimmer) | Claude API, AWS IAM, Node.js | ✅ Complete |
 | [CloudCost Watchdog](https://github.com/AishatAnalytics/cloudcost-watchdog) | Claude API, AWS Cost Explorer, SES, Node.js | ✅ Complete |
 | [Compliance Bot](https://github.com/AishatAnalytics/compliance-bot) | Claude API, AWS Config, SES, Node.js | ✅ Complete |
-
+| [Terraform Auditor](https://github.com/AishatAnalytics/terraform-auditor) | Claude API, Node.js, Terraform | ✅ Complete |
 
 
 ## 💼 Tech Stack
