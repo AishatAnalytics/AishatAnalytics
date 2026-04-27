@@ -15,6 +15,9 @@ AWS Certified Solutions Architect Professional building real cloud systems in pu
 |---------|------|--------|
 | [AI Morning BOT](https://github.com/AishatAnalytics/ai-morning-bot) | Claude API, Lambda, EventBridge, SES | ✅ Live |
 | [Multi-Region Failover Lab](https://github.com/AishatAnalytics/multi-region-failover) | RDS, Route53, Node.js | ✅ Complete |
+| [IAM Permission Trimmer](https://github.com/AishatAnalytics/iam-permission-trimmer) | Claude API, AWS IAM, Node.js | ✅ Complete |
+
+
 
 ## 💼 Tech Stack
 - **Cloud:** AWS (Lambda, RDS, Route53, EventBridge, SES, SNS, CloudWatch)
