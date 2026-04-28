@@ -19,7 +19,7 @@ AWS Certified Solutions Architect Professional building real cloud systems in pu
 | [CloudCost Watchdog](https://github.com/AishatAnalytics/cloudcost-watchdog) | Claude API, AWS Cost Explorer, SES, Node.js | ✅ Complete |
 | [Compliance Bot](https://github.com/AishatAnalytics/compliance-bot) | Claude API, AWS Config, SES, Node.js | ✅ Complete |
 | [Terraform Auditor](https://github.com/AishatAnalytics/terraform-auditor) | Claude API, Node.js, Terraform | ✅ Complete |
-
+| [Serverless ETL Pipeline](https://github.com/AishatAnalytics/serverless-etl-pipeline) | Python, Pandas, Claude API, AWS S3 | ✅ Complete |
 
 ## 💼 Tech Stack
 - **Cloud:** AWS (Lambda, RDS, Route53, EventBridge, SES, SNS, CloudWatch)
