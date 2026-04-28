@@ -25,7 +25,9 @@ AWS Certified Solutions Architect Professional building real cloud systems in pu
 | [Security Doorbell](https://github.com/AishatAnalytics/security-doorbell) | Python, CloudTrail, AWS SES | ✅ Complete |
 | [Sentiment Dashboard](https://github.com/AishatAnalytics/sentiment-dashboard) | Python, Claude API, AWS SES | ✅ Complete 
 | [DynamoDB Time Machine](https://github.com/AishatAnalytics/dynamodb-time-machine) | Python, DynamoDB, S3, boto3 | ✅ Complete |
-
+| [AI Code Reviewer](https://github.com/AishatAnalytics/ai-code-reviewer) | Python, Claude API | ✅ Complete |
+| [AutoTag Machine](https://github.com/AishatAnalytics/autotag-machine) | Python, AWS EC2, S3, RDS, SES | ✅ Complete |
+| [Noisy Neighbour Detector](https://github.com/AishatAnalytics/noisy-neighbour-detector) | Python, CloudWatch, Lambda, SES | ✅ Complete |
 
 
 ## 💼 Tech Stack
