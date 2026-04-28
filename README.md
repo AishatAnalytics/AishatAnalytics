@@ -23,6 +23,10 @@ AWS Certified Solutions Architect Professional building real cloud systems in pu
 | [Chaos Monkey Jr.](https://github.com/AishatAnalytics/chaos-monkey-jr) | Python, AWS Lambda, boto3 | ✅ Complete |
 | [SLA Guardian](https://github.com/AishatAnalytics/sla-guardian) | Python, AWS SES, boto3, requests | ✅ Complete |
 | [Security Doorbell](https://github.com/AishatAnalytics/security-doorbell) | Python, CloudTrail, AWS SES | ✅ Complete |
+| [Sentiment Dashboard](https://github.com/AishatAnalytics/sentiment-dashboard) | Python, Claude API, AWS SES | ✅ Complete 
+
+
+
 
 ## 💼 Tech Stack
 - **Cloud:** AWS (Lambda, RDS, Route53, EventBridge, SES, SNS, CloudWatch)
