@@ -21,7 +21,7 @@ AWS Certified Solutions Architect Professional building real cloud systems in pu
 | [Terraform Auditor](https://github.com/AishatAnalytics/terraform-auditor) | Claude API, Node.js, Terraform | ✅ Complete |
 | [Serverless ETL Pipeline](https://github.com/AishatAnalytics/serverless-etl-pipeline) | Python, Pandas, Claude API, AWS S3 | ✅ Complete |
 | [Chaos Monkey Jr.](https://github.com/AishatAnalytics/chaos-monkey-jr) | Python, AWS Lambda, boto3 | ✅ Complete |
-
+| [SLA Guardian](https://github.com/AishatAnalytics/sla-guardian) | Python, AWS SES, boto3, requests | ✅ Complete |
 
 
 ## 💼 Tech Stack
