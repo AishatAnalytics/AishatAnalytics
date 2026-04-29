@@ -36,7 +36,13 @@ AWS Certified Solutions Architect Professional building real cloud systems in pu
 | [PodcastDigest](https://github.com/AishatAnalytics/podcast-digest) | Python, Claude API, SES | ✅ Complete |
 | [Resume Roaster](https://github.com/AishatAnalytics/resume-roaster) | Python, Claude API | ✅ Complete |
 | [Incident Whisperer](https://github.com/AishatAnalytics/incident-whisperer) | Python, CloudWatch, SES | ✅ Complete |
-
+| [Smart Alarm Clock](https://github.com/AishatAnalytics/smart-alarm) | Python, OpenWeatherMap, AWS SES | ✅ Complete |
+| [Serverless Portfolio](https://github.com/AishatAnalytics/serverless-portfolio) | Python, AWS S3, boto3 | ✅ Live |
+| [Ghost Job Finder](https://github.com/AishatAnalytics/ghost-job-finder) | Python, Claude API, AWS SES | ✅ Complete |
+| [Retro Facilitator](https://github.com/AishatAnalytics/retro-facilitator) | Python, Claude API, AWS SES | ✅ Complete |
+| [Expense Tracker](https://github.com/AishatAnalytics/expense-tracker) | Python, Claude API, DynamoDB | ✅ Complete |
+| [Newsletter Engine](https://github.com/AishatAnalytics/newsletter-engine) | Python, Claude API, AWS SES | ✅ Complete |
+| [AI Study Buddy](https://github.com/AishatAnalytics/ai-study-buddy) | Python, Claude API, AWS SES | ✅ Complete |
 
 
 
