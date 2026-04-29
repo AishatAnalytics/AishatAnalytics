@@ -28,6 +28,16 @@ AWS Certified Solutions Architect Professional building real cloud systems in pu
 | [AI Code Reviewer](https://github.com/AishatAnalytics/ai-code-reviewer) | Python, Claude API | ✅ Complete |
 | [AutoTag Machine](https://github.com/AishatAnalytics/autotag-machine) | Python, AWS EC2, S3, RDS, SES | ✅ Complete |
 | [Noisy Neighbour Detector](https://github.com/AishatAnalytics/noisy-neighbour-detector) | Python, CloudWatch, Lambda, SES | ✅ Complete |
+| [URL Shortener](https://github.com/AishatAnalytics/url-shortener) | Python, DynamoDB, boto3 | ✅ Complete |
+| [MeetingMind](https://github.com/AishatAnalytics/meeting-mind) | Python, Claude API | ✅ Complete |
+| [LinkedIn Ghost Writer](https://github.com/AishatAnalytics/linkedin-ghost-writer) | Python, Claude API | ✅ Complete |
+| [Docs That Write Themselves](https://github.com/AishatAnalytics/docs-writer) | Python, Claude API | ✅ Complete |
+| [Price Stalker](https://github.com/AishatAnalytics/price-stalker) | Python, DynamoDB, SES | ✅ Complete |
+| [PodcastDigest](https://github.com/AishatAnalytics/podcast-digest) | Python, Claude API, SES | ✅ Complete |
+| [Resume Roaster](https://github.com/AishatAnalytics/resume-roaster) | Python, Claude API | ✅ Complete |
+| [Incident Whisperer](https://github.com/AishatAnalytics/incident-whisperer) | Python, CloudWatch, SES | ✅ Complete |
+
+
 
 
 ## 💼 Tech Stack
